@@ -1,6 +1,6 @@
 use crate::ListNode;
 
-pub struct Solution2 {}
+pub struct Solution2;
 
 /// This is a reference to a posted solution for learning purpose - https://leetcode.com/Qba101/
 impl Solution2 {

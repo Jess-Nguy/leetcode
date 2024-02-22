@@ -1,5 +1,5 @@
 [workspace]
 
 members = [
-    "exercises/add_two_numbers",
+    "exercises/add_two_numbers", "exercises/longest_substring_without_repeating_char",
 ]
